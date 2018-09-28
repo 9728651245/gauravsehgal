@@ -1,0 +1,9 @@
+Bootstrap.exe ED -c=es   (for setting up Spanish(ES)  locale)
+Bootstrap.exe ED -c=fr    (for setting up French(FR)  locale)
+Bootstrap.exe ED -c=de   (for setting up German(de)  locale)
+Bootstrap.exe ED -c=ja   (for setting up Japanese(JA)  locale)
+
+
+Command for launching ED in various locale : - Example for france
+ 
+c:\Program Files\Pitney Bowes\Spectrum Client Tools\bin>Bootstrap.exe ED -c=fr
